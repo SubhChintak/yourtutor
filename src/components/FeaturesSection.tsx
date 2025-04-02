@@ -31,8 +31,8 @@ const features = [
   },
   {
     icon: House,
-    title: "Home Tutions",
-    description: "Home tutions are also available."
+    title: "Home Tuitions",
+    description: "Home tuitions are also available."
   }
 ];
 
