@@ -14,7 +14,7 @@ const Footer = () => {
           </div>
           
           <div className="text-white/80 text-sm">
-            © {currentYear} <span><a className='font-bold' href='https://github.com/SubhChintak'>SubhChintak</a></span>. All rights reserved.
+            © {currentYear} <span><a className='font-bold' href='https://subhchintak.in/'>SubhChintak</a></span>. All rights reserved.
             <br></br>
             <span className="text-white/80 text-sm">Built with ❤ for our beloved Teachers.</span>
           </div>
