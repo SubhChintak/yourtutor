@@ -6,7 +6,7 @@ import { Phone, MessageSquare, Twitter, Instagram, Linkedin } from 'lucide-react
 
 const ContactSection = () => {
   const handleCall = () => {
-    window.location.href = "tel:+91 9863113509";
+    window.location.href = "tel:+91 8131827170";
   };
 
   const handleWhatsApp = () => {
